@@ -1,5 +1,6 @@
 //Importación de OrbitControls.
-import { OrbitControls } from "https://threejs.org/examples/jsm/controls/OrbitControls.js";
+//import { OrbitControls } from "https://threejs.org/examples/jsm/controls/OrbitControls.js";
+import * as THREE from 'three' ;
 
 //Creación de la escena.
 const scene = new THREE.Scene();
